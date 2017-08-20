@@ -9,3 +9,5 @@
 
 ページ構造は以前からの互換性を持たせるためのものです。
 検索エンジン等で使われなくなったリダイレクトは削除してください。
+
+* ailab用: https://github.com/imai-laboratory-ayu/imai-laboratory.github.io
